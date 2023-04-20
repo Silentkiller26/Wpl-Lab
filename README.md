@@ -8,3 +8,8 @@ INSERT INTO `others_required`(`serial_no`, `labour_type`, `place`, `quantity`, `
 INSERT INTO `schedule`(`sno`, `lid`, `available_place`, `available_date`, `start_time`, `end_time`, `status`) VALUES ('[value-1]','[value-2]','[value-3]','[value-4]','[value-5]','[value-6]','[value-7]')
 ---------------user table insert query--------
 INSERT INTO `user`(`name`, `occupation`, `email`, `phone_no`, `address`, `post_code`, `gender`, `attempt`, `timestamp`, `usertype`, `password`) VALUES ('[value-1]','[value-2]','[value-3]','[value-4]','[value-5]','[value-6]','[value-7]','[value-8]','[value-9]','[value-10]','[value-11]')
+
+IMAGES
+
+![image](https://user-images.githubusercontent.com/98377206/233290383-29a7a673-d6f7-465a-bf98-bc35556a9c26.png)
+<img width="432" alt="image" src="https://user-images.githubusercontent.com/98377206/233290357-21793b23-2122-4d2c-9f26-609c6382eeee.png">
